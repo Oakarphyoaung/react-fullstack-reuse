@@ -1,0 +1,24 @@
+React is a popular JavaScript library for building user interfaces. Here are some basic concepts you should know to get started with React:
+
+1. Components: In React, a component is a reusable building block for creating user interfaces. 
+A component can be a simple button, a form field, or a more complex piece of UI. React components can be functional or class-based.
+
+2. JSX: JSX is a syntax extension for JavaScript that allows you to write HTML-like code inside your JavaScript. 
+JSX makes it easier to write and reason about your components.
+
+3. Props: Props (short for "properties") are used to pass data from a parent component to a child component.
+Props are read-only and cannot be changed by the child component.
+
+4. State: State is used to manage data that changes over time within a component. 
+Unlike props, state can be changed by the component itself.
+
+5. Lifecycle methods: React components have several built-in methods that are called at different points in the component's lifecycle. 
+These methods allow you to perform actions when a component is mounted, updated, or unmounted.
+
+6. Event handling: React uses a similar event system to vanilla JavaScript, but with some syntactical differences. 
+You can attach event listeners to components and perform actions in response to user events.
+
+7. Rendering: React components render output based on their props and state. 
+You can render plain HTML, other React components, or a combination of the two.
+
+These are some basic concepts you should be familiar with to get started with React. There are many more advanced concepts and techniques to learn as you become more experienced with React development.
